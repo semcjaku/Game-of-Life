@@ -1,0 +1,2 @@
+In "Play" mode to fill a square, click it with LMB, to clear it, click it again. To run the game press the "space" key.
+In every game mode to pause the game press "p", to resume it, press "p" again.
